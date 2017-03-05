@@ -1,0 +1,14 @@
+{
+  "name": "crymagic",
+  "version": "1.0.0",
+  "description": "demo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "crymagic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
